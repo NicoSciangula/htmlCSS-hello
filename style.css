@@ -1,0 +1,18 @@
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+div ul {
+    display: flex;
+    list-style: none;
+
+}
+
+div ul li {
+    margin-right: 15px;
+    color: red;
+    font-size: 20px;
+}
